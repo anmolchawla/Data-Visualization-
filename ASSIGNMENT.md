@@ -1,14 +1,20 @@
 # INF 554 Assignment 1
 
 ## Description 
-Follow Cairo Part I, Ch.1 example on UN Data. For 10 countries select UN data of your choice. Import the data in Google Sheets. Create 3 different charts to show different aspects of the data. Create a web page with these interactive charts.
+For 10 countries select UN data of your choice. Import the data in Google Sheets and format the data to create a [chart](https://support.google.com/docs/answer/63728). Create a web page named `index.html` containing:
+- Documentation of data provenance
+- A picture of the chart you created in Google Sheet
+- The Google Sheets chart embedded as an `<iframe>`
+- A [Google Charts](https://developers.google.com/chart/interactive/docs/) chart similar chart of the one you created in Google Sheets
 
-- Include link to the Google Sheet file in the README.md and ensure it is publicly accessible. 
-- Web page should be named index.html
+In the `README.md`:
+- Document with link to the Google Sheet file (ensure it is publicly accessible)
+- How-to explanation of how you created the page and the charts
+
 
 ## Rubric
 
-| 	| Google Sheet	| Web Page |
+| 	        | Google Sheet	| Web Page |
 | --------- | ------------- | -------- |
 | Sophisticated	| 10 countries, 3 charts, formatting is careful, information about the 3 charts is presented, conscious effort is made in choice/consistency of aesthetics, clean presentation (4-5 pts) | 3 charts, charts are interactive, page formatting is careful, information about the charts is presented, clean presentation (4-5 pts) |
 | Competent	| some countries or charts not created, some formatting mistakes, no or insufficient information about the charts, no or insufficient effort is made in choice/consistency of aesthetics, clean presentation (2-3 pts) |	less than 3 charts, charts are interactive, page formatting is not careful, no or missing information about the charts is presented, presentation can be improved (2-3 pts) |
