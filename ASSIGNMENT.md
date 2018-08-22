@@ -2,7 +2,7 @@
 
 ## Description
 
-For 10 countries select UN data of your choice containing data over time. Import the data in Google Sheets and format the data to create a [chart](https://support.google.com/docs/answer/63728). Create a web page named `index.html` containing:
+For 10 countries select [UN data of your choice containing data over time](http://data.un.org). Import the data in Google Sheets and format the data to create a [chart](https://support.google.com/docs/answer/63728). Create a web page named `index.html` containing:
 
 - Explanations of the dataset and provenance
 - A picture of the chart you created in Google Sheet
