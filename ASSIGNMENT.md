@@ -2,18 +2,18 @@
 
 ## Description
 
-Follow Cairo Part I, Ch.1 example on UN Data. For 10 countries select [UN data of your choice containing data over time](http://data.un.org). Import the data in Google Sheets and format the data to create a [chart](https://support.google.com/docs/answer/63728). Create a web page named `index.html` containing:
+Follow Cairo Part I, Ch.1 example on UN Data. For 10 countries select [UN data of your choice containing data over time](http://data.un.org). Import the data in Google Sheets and format the data to create a line [chart](https://support.google.com/docs/answer/63728). Create a web page named `index.html` containing:
 
 - Explanations of the dataset and provenance
 - Three charts:
  1. As a picture of the chart you created in Google Sheet
  2. The Google Sheets chart you created embedded as an `<iframe>`
- 3. A line chart of your data built using the [Google Charts library](https://developers.google.com/chart/interactive/docs/)
+ 3. The same chart built using the [Google Charts library](https://developers.google.com/chart/interactive/docs/)
 
 In the `README.md`:
 
 - Provide link to the Google Sheet file (__create the Google Sheet with your USC account__ then share it so that _Anyone at University of Southern California_ can access it)
-- How-to explanation detailing how you created the index.html page and the charts. If you choose not to make line charts with Google Sheets explain why it is appropriate to convey the information.
+- How-to explanation detailing how you created the index.html page and the charts.
 
 ## Rubric
 
